@@ -23,7 +23,7 @@ A real-time video calling app that connects random strangers using WebRTC and Fi
 4. Run on an emulator or device
 
 ## 📸 Screenshots
-*(Add images from the app UI here)*
+![Splash](https://raw.githubusercontent.com/Priyansh2100/Stranger-Video-Call-Application/refs/heads/main/Get%20Started.jpg)
 
 ## 📌 Future Scope
 - Add filters
