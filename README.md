@@ -23,7 +23,31 @@ A real-time video calling app that connects random strangers using WebRTC and Fi
 4. Run on an emulator or device
 
 ## 📸 Screenshots
-![Splash](https://raw.githubusercontent.com/Priyansh2100/Stranger-Video-Call-Application/refs/heads/main/Get%20Started.jpg)
+
+### 🟢 Get Started Page
+![Get Started]([images/get_started.png](https://raw.githubusercontent.com/Priyansh2100/Stranger-Video-Call-Application/refs/heads/main/Get%20Started.jpg))
+
+### 🟢 Permission Screen
+![Permission](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Permisssion.jpg)
+
+### 🟢 Matching Page
+![Matching](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Matching%20Page.jpg)
+
+### 🟢 Call Initiate
+![Call Initiate](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Call%20Initiate.jpg)
+
+### 🟢 Connection Established
+![Connection](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Connection.jpg)
+
+### 🟢 Inbuilt Recorder
+![Recorder](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Inbuild%20Recorder.jpg)
+
+### 🟢 AdMob Integration
+![Ads](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Ads%20Mobs.jpg)
+
+### 🟢 Game Rewards
+![Rewards](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Game%20Rewards.jpg)
+
 
 ## 📌 Future Scope
 - Add filters
