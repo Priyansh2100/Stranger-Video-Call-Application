@@ -25,7 +25,7 @@ A real-time video calling app that connects random strangers using WebRTC and Fi
 ## 📸 Screenshots
 
 ### 🟢 Get Started Page
-![Get Started]([images/get_started.png](https://raw.githubusercontent.com/Priyansh2100/Stranger-Video-Call-Application/refs/heads/main/Get%20Started.jpg))
+![Get Started](https://raw.githubusercontent.com/Priyansh2100/Stranger-Video-Call-Application/refs/heads/main/Get%20Started.jpg)
 
 ### 🟢 Permission Screen
 ![Permission](https://github.com/Priyansh2100/Stranger-Video-Call-Application/blob/f22ce8e8a0ae0cb2b8e6acbd866254718c2cfa7e/Permisssion.jpg)
