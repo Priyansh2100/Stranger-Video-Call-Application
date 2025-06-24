@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="Overdraw">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bg_blur" />
+
+
+
+
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quick_settings_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:id="@+id/title_qs"
+        android:textStyle="bold"/>-->
+
+    <!--<RadioGroup
+        android:layout_below="@+id/title_qs"
+        android:layout_marginTop="20dp"
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/hd_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/high_definition"
+            />
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/sd_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/standard_definition"
+            />
+
+    </RadioGroup>-->
+
+
+    <!--<CheckBox
+        android:id="@+id/audio_check_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/radio_group"
+        android:layout_below="@+id/radio_group"
+        android:layout_marginTop="30dp"
+        android:checked="true"
+        android:text="@string/record_audio"
+        app:theme="@style/CheckboxStyle"/>-->
+
+    <!--<ImageView
+        android:layout_width="300dp"
+        android:layout_height="1dp"
+        android:layout_below="@+id/audio_check_box"
+        android:layout_centerHorizontal="true"
+        android:background="#b1b1b1"
+        android:layout_marginTop="40dp"
+        android:id="@+id/hl1"
+        android:alpha="0.5"
+        tools:ignore="ContentDescription" />-->
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/or_title"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_below="@+id/hl1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/tvOr"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="1dp"
+        android:layout_centerHorizontal="true"
+        android:background="#b1b1b1"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tvOr"
+        android:id="@+id/hl2"
+        android:alpha="0.5"
+        tools:ignore="ContentDescription" />-->
+
+    <!--<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hl2"
+        android:layout_marginTop="40dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/custom_settings_title"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:id="@+id/tvCustom"/>
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/custom_settings_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvCustom"
+            android:layout_marginStart="20dp"/>
+
+    </RelativeLayout>-->
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary">
+
+        <Button
+            android:id="@+id/button_start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/start_recording"
+            android:textColor="@android:color/white"
+            android:background="@drawable/ripple_effect"
+            tools:text="@string/start_recording"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
